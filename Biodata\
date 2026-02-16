@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Personal Bio Data</title>
+ <style>
+ body {
+ font-family: Arial, sans-serif;
+ background: linear-gradient(to right, #74ebd5, #acb6e5);
+ margin: 0;
+ padding: 0;
+ }
+ .container {
+ width: 70%;
+ margin: 30px auto;
+ background: rgb(255, 255, 255);
+ padding: 25px;
+ border-radius: 12px;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+ }
+ h1 {
+ text-align: center;
+ color: #333;
+ }
+ h2 {
+ color: #2c3e50;
+ border-bottom: 2px solid #3498db;
+ }
+ p, li {
+ font-size: 16px;
+ }
+ img {
+ display: block;
+ margin: 10px auto;
+ border-radius: 50%;
+ width: 150px;
+ }
+ ul {
+ list-style-type: square;
+ }
+ </style>
+/head>
+<body>
+<div class="container">
+ <h1>Personal Bio Data</h1>
+ <img src="https://cdn-iconspng.flaticon.com/512/3135/3135715.png" alt="Profile Image">
+ <h2>Personal Details</h2>
+ <p><b>Name:</b> Onkar Bake</p>
+ <p><b>Age:</b> 19</p>
+ <p><b>Gender:</b> male</p>
+ <p><b>Address:</b> Dighi, Pune</p>
+ <h2>Educational Qualification</h2>
+ <ul>
+ <li> Currently pursuing B.Tech - Computer Science Engineering(AI&DS)</li>
+ <li>HSC - Science</li>
+ <li>SSC</li>
+ </ul>
+
+<h2>Skills</h2>
+ <ul>
+ <li>C / C++ Programming</li>
+ <li>Python Programming</li>
+ <li>Web Development</li>
+ <li>Database Management</li>
+ </ul>
+
+<h2>Hobbies</h2>
+ <ul>
+ <li>Playing</li>
+ <li>Music</li>
+ <li>Coding</li>
+ <li>Travelling</li>
+ </ul>
+
+<h2>Contact Information</h2>
+ <p><b>Email:</b> onkar.bake25@pcu.edu.in</p>
+ <p><b>Mobile:</b> 7721870102</p>
+</div>
+</body>
+</html>
+
